@@ -1,4 +1,6 @@
 # GAN_MNIST_data_generation
+GANs, or Generative Adversarial Networks, are a state-of-the-art method for generative modeling in deep learning that frequently make use of convolutional neural network designs. Finding patterns in input data on its own is the aim of generative modeling, which allows the model to generate new examples that reasonably mirror the original dataset.
+
 An Adversarial Generative Network (GAN) consists of two primary parts:
 
 Generator: This part generates artificial intelligence data. It converts random noise that is supplied as input into data that is similar to the training dataset.
